@@ -1,4 +1,4 @@
-# Servicio_REST
+# Servicio REST
 Se pide hacer un servicio REST, dicho servicio gestionará una serie de Videojuegos.
 <h1> Requerimiento 1 </h1>
 <br>
@@ -15,10 +15,10 @@ Además, se pide a través de Postman realizar las siguientes tareas y apreciar 
 • Obtener un videojuego por ID
 • Listar todos los videojuegos
 <br> <br>
-<h2> Requerimiento 2 </h2>
+<h1> Requerimiento 2 </h1>
 Se pide que no pueda haber dos videojuegos con id o nombre repetido
 <br><br>
-<h3> Requerimiento 3 </h3>
+<h1> Requerimiento 3 </h1>
 Se pide crear una aplicación java que sea capaz de trabajar con el servidor REST de videojuegos. La
 aplicación mostrara un menú que sea capaz de realizar todas las operaciones del servidor, como
 puede ser:
