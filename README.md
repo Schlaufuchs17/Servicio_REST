@@ -9,7 +9,7 @@ tipo de estructura de datos (como puede ser un lista).
 El servicio REST proporcionará un servicio CRUD completo, y podrá ser consumido mediante un
 cliente como Postman y todo el intercambio de mensajes se hará a través de JSON.
 Además, se pide a través de Postman realizar las siguientes tareas y apreciar los resultados:
-<br>
+<br><br>
 • Dar de alta un videojuego<br>
 • Dar de baja un videojuego por ID<br>
 • Modificar un videojuego por ID<br>
@@ -23,7 +23,7 @@ Se pide que no pueda haber dos videojuegos con id o nombre repetido
 Se pide crear una aplicación java que sea capaz de trabajar con el servidor REST de videojuegos. La
 aplicación mostrara un menú que sea capaz de realizar todas las operaciones del servidor, como
 puede ser:
-<br>
+<br><br>
 • Dar de alta un videojuego<br>
 • Dar de baja un videojuego por ID<br>
 • Modificar un videojuego por ID<br>
