@@ -29,6 +29,6 @@ puede ser:
 • Modificar un videojuego por ID<br>
 • Obtener un videojuego por ID<br>
 • Listar todos los videojuegos<br>
-• Salir<br>
+• Salir<br><br>
 Para cada opción, se tendrá que pedir los datos necesarios al usuario y/o mostrar los resultados
 pertinentes. La aplicación se ejecutará hasta que se pulse la opción de “salir”.
